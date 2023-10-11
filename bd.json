@@ -7,7 +7,7 @@
         "nombre": "Julio",
         "apellido": "pro",
         "correo": "juliopro@gmail.com",
-        "numerotele": 1231231238,
+        "contraseña": "1231231238",
         "carrera": "sexooo"
       },
       {
@@ -16,7 +16,7 @@
         "nombre": "Alex",
         "apellido": "Paolo",
         "correo": "aweonaopagrande@gmail.com",
-        "numerotele": 123123123,
+        "contraseña": "123123123",
         "carrera": "aweonao ql"
       }
     ],
