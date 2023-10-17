@@ -8,7 +8,7 @@
       "correo": "juliopro@gmail.com",
       "contraseña": "1231231238",
       "carrera": "sexooo",
-      "clases": ["1"] 
+      "clases": ["1","2"] 
     },
     {
       "id": "fqK9Jne",
@@ -43,6 +43,13 @@
     {
       "id": "1",
       "seccion": "DC007",
+      "profesor": "1123456-k", 
+      "fecha": "22/09/2023",
+      "alumnos": ["xlZdZNN", "fqK9Jne"] 
+    }, 
+    {
+      "id": "2",
+      "seccion": "DC003",
       "profesor": "1123456-k", 
       "fecha": "22/09/2023",
       "alumnos": ["xlZdZNN", "fqK9Jne"] 
