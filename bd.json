@@ -8,7 +8,7 @@
       "correo": "juliopro@gmail.com",
       "contraseña": "1231231238",
       "carrera": "sexooo",
-      "clases": ["1","2"] 
+      "clases": ["1", "2"]
     },
     {
       "id": "fqK9Jne",
@@ -18,7 +18,7 @@
       "correo": "aweonaopagrande@gmail.com",
       "contraseña": "123123123",
       "carrera": "aweonao ql",
-      "clases": ["1"] 
+      "clases": ["1"]
     }
   ],
   "profesores": [
@@ -29,30 +29,33 @@
       "correo": "profe@gmail.com",
       "numero": "598451",
       "area": "informatica",
-      "clases": ["1"] 
+      "clases": ["1"]
     }
   ],
   "asistencias": [
     {
-      "clase": "1", 
-      "fecha": "22/09/2023",
-      "profesor": "1123456-k" 
+      "clase": "manu12",
+      "fecha": "22-09-2023",
+      "profesor": "JUJUJ",
+      "alumnos":["fqK9Jne"]
     }
   ],
   "clases": [
     {
       "id": "1",
       "seccion": "DC007",
-      "profesor": "1123456-k", 
+      "profesor": "1123456-k",
       "fecha": "22/09/2023",
-      "alumnos": ["xlZdZNN", "fqK9Jne"] 
-    }, 
+      "alumnos": ["xlZdZNN", "fqK9Jne"]
+    },
     {
       "id": "2",
       "seccion": "DC003",
-      "profesor": "1123456-k", 
+      "profesor": "1123456-k",
       "fecha": "22/09/2023",
-      "alumnos": ["xlZdZNN", "fqK9Jne"] 
+      "alumnos": ["xlZdZNN"]
     }
   ]
 }
+
+
