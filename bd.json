@@ -34,11 +34,20 @@
   ],
   "asistencias": [
     {
-      "clase": [1],
+      "id": "1",
+      "claseId": "1",
       "fecha": "22-09-2023",
-      "profesor": "JUJUJ",
-      "alumnos":["fqK9Jne"],
-      "id":""
+      "profesorId": "1123456-k",
+      "alumnos": [
+        {
+          "alumnoId": "fqK9Jne",
+          "presente": true
+        },
+        {
+          "alumnoId": "xlZdZNN",
+          "presente": false
+        }
+      ]
     }
   ],
   "clases": [
@@ -58,5 +67,4 @@
     }
   ]
 }
-
 
