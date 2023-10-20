@@ -33,11 +33,14 @@
       "alumnos": [
         {
           "alumnoId": "fqK9Jne",
-          "presente": true
+          "presente": true,
+          "asistenciaId": "1"
         },
         {
           "alumnoId": "xlZdZNN",
-          "presente": false
+          "presente": false,
+          "asistenciaId": "1"
+          
         }
       ]
     }
@@ -53,4 +56,3 @@
     }
   ]
 }
-
