@@ -8,17 +8,8 @@
       "correo": "juliopro@gmail.com",
       "contraseña": "1231231238",
       "carrera": "sexooo",
-      "clases": ["1", "2"]
-    },
-    {
-      "id": "fqK9Jne",
-      "rut": "172631273",
-      "nombre": "Alex",
-      "apellido": "Paolo",
-      "correo": "aweonaopagrande@gmail.com",
-      "contraseña": "123123123",
-      "carrera": "aweonao ql",
-      "clases": ["1"]
+      "clases": ["1", "2"],
+      "asistencias": [] 
     }
   ],
   "profesores": [
@@ -29,7 +20,8 @@
       "correo": "profe@gmail.com",
       "numero": "598451",
       "area": "informatica",
-      "clases": ["1"]
+      "clases": ["1"],
+      "asistencias": [] 
     }
   ],
   "asistencias": [
@@ -56,14 +48,8 @@
       "seccion": "DC007",
       "profesor": "1123456-k",
       "fecha": "22/09/2023",
-      "alumnos": ["xlZdZNN", "fqK9Jne"]
-    },
-    {
-      "id": "2",
-      "seccion": "DC003",
-      "profesor": "1123456-k",
-      "fecha": "22/09/2023",
-      "alumnos": ["xlZdZNN"]
+      "alumnos": ["xlZdZNN", "fqK9Jne"],
+      "asistencias": [] 
     }
   ]
 }
