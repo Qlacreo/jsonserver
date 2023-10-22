@@ -14,12 +14,12 @@
   ],
   "profesores": [
     {
+      "id": "xlZdZNN",
       "rut": "1123456-k",
       "nombre": "manuel",
       "apellido": "gon",
       "correo": "profe@gmail.com",
-      "numero": "598451",
-      "area": "informatica",
+      "contraseña": "1231231238",
       "clases": ["1"],
       "asistencias": [] 
     }
